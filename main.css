@@ -44,7 +44,10 @@ font-weight:400;
   border:1px solid #563d7c
 }
 .jumbotron{
+  background: linear-gradient(rgba(32, 28, 28, 0.2), rgba(12, 10, 10, 0.1)), url("images/jumb2.jpg");
   
+  background-size: cover;
+  color: whitesmoke;
   padding: 5rem;
   border-radius: 0
 }
